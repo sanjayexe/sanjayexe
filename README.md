@@ -1,16 +1,39 @@
-## Hi there 👋
-yooo wassapppp
+👋 Hey there, I'm Sanjay T
 
-**sanjayexe/sanjayexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer | ☕ Java Enthusiast | 🤖 AI/ML Explorer
 
-Here are some ideas to get you started:
+I love building scalable applications, exploring deep tech, and crafting user-friendly solutions. Always curious, always coding! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Tech Arsenal
 
+🖥️ Languages: Java | C | C++ | JavaScript | C# | PHP 🎨 Frontend: ReactJS ⚛️ | Bootstrap5 🎀 | Tailwind CSS 🌈 | Figma 🎨 ⚙️ Backend: Node.js 🟢 | Express.js 🚂 | REST APIs 🌐 🗄️ Databases: MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 📱 App: Flutter 📲 | Git/GitHub 🐙 | UI/UX ✨
+
+🌟 Featured Projects
+
+🔗 Destiny Dive - https://destiny-dive.vercel.app/
+🌍 A MERN stack platform to simplify applications for universities, scholarships, and accommodations.
+✨ Features: Google OAuth login 🔑 | PDF generation 📄 | Admin dashboard 📊 | Real-time validation ⚡
+
+📈 Stock Market Prediction
+📊 Built using Python + TensorFlow + Plotly.
+🔮 LSTMs & Neural Networks to predict stock prices, with real-time stock search and interactive graphs.
+
+💡 Interests
+
+🌐 Web & App Development
+🤖 Artificial Intelligence & Machine Learning
+⚡ Full Stack Development
+
+📊 GitHub Fun Stats
+
+
+
+
+📫 Connect With Me
+
+📧 Email Me
+💼 LinkedIn
+🖥️ GitHub
+🌐 Portfolio
+
+✨ “Code. Debug. Learn. Repeat.” ✨
