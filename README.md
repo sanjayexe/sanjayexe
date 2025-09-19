@@ -6,7 +6,7 @@ I love building scalable applications, exploring deep tech, and crafting user-fr
 
 🚀 Tech Arsenal
 
-🖥️ Languages: Java | C | C++ | JavaScript | C# | PHP 🎨 Frontend: ReactJS ⚛️ | Bootstrap5 🎀 | Tailwind CSS 🌈 | Figma 🎨 ⚙️ Backend: Node.js 🟢 | Express.js 🚂 | REST APIs 🌐 🗄️ Databases: MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 📱 App: Flutter 📲 | Git/GitHub 🐙 | UI/UX ✨
+🖥️ Languages: Java | C | C++ | Java | C# | PHP 🎨 Frontend: ReactJS ⚛️ | Bootstrap5 🎀 | Tailwind CSS 🌈 | Figma 🎨 ⚙️ Backend: Node.js 🟢 | Express.js 🚂 | REST APIs 🌐 🗄️ Databases: MongoDB 🍃 | MySQL 🐬 | PostgreSQL 🐘 📱 App: Flutter 📲 | Git/GitHub 🐙 | UI/UX ✨
 
 🌟 Featured Projects
 
