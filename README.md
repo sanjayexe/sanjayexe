@@ -24,16 +24,10 @@ I love building scalable applications, exploring deep tech, and crafting user-fr
 🤖 Artificial Intelligence & Machine Learning
 ⚡ Full Stack Development
 
-📊 GitHub Fun Stats
-
-
-
-
 📫 Connect With Me
 
-📧 Email Me
-💼 LinkedIn
-🖥️ GitHub
-🌐 Portfolio
+📧 Email Me - sanjay.jay18v@gmail.com
+💼 LinkedIn - https://www.linkedin.com/in/sanjay-dev-
+🌐 Portfolio -
 
 ✨ “Code. Debug. Learn. Repeat.” ✨
